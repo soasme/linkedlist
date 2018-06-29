@@ -16,6 +16,8 @@ Include header file in your source file.
 #include "linkedlist.h"
 ```
 
+[![asciicast](https://asciinema.org/a/189306.png)](https://asciinema.org/a/189306)
+
 ## Usage
 
 Create a new LinkedList:
